@@ -1,5 +1,8 @@
 # Chrysalis
 
+<img src=".github/chrysalis.webp" alt="project-ideation platform" width="100%" />
+
+
 **A project-ideation platform that carries an idea from loose inspiration all the way to a
 development-ready design system.**
 
